@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture"         "models/mark2580/Payday2/bulldozer_zeal/bulldozer_3_df"
+	"$bumpmap"             "models/mark2580/Payday2/bulldozer_zeal/bulldozer_2_n"
+
+	"$phong"               "1"
+	"$phongboost"	       "1"
+	"$phongexponent"       "70"
+	"$phongfresnelranges"  "[.2 .2 .2]"
+
+    "$normalmapalphaenvmapmask"    "1"
+	
+	"$lightwarptexture"	"models/mark2580/Payday2/bulldozer_zeal/lightwarp_soft_white"
+	
+	"$detail"             "models/mark2580/Payday2/bulldozer_zeal/detail_metal_01"
+	"$detailscale"        "20"
+	"$detailblendfactor"  "1.8"
+	"$detailblendmode"    "0"  
+}
