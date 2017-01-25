@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\weapons\c_items/c_urinejar_cap"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.25 .25 .25]"
+}
