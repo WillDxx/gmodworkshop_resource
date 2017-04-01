@@ -1,0 +1,6 @@
+{
+"title" : "workshop_resource",
+"type" : "servercontent",
+"tags" : "fun",
+"ignore" : ["*.psd", "*.vcproj", "*.svn*"]
+}
