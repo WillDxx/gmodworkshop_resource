@@ -1,0 +1,1 @@
+Workshop resource for private collaboration
