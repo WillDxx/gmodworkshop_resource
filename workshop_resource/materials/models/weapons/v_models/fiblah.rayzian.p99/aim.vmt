@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\fiblah.rayzian.p99\aim"
+      	"$envmap" 			"env_cubemap"
+      	"$bumpmap" "models/weapons\v_models/fiblah.rayzian.p99\aim_norm"
+	"$normalmapalphaenvmapmask" 1
+	
+}
+
